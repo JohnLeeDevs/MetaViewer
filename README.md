@@ -7,7 +7,7 @@ A MetaViewer that can view anything. Can listen/watch videos in the program.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnleedevs&label=Profile%20views&color=0e75b6&style=flat" alt="johnleedevs" /></p>
 <p align="left"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JohnLeeDevs/Recoil-Master?style=flat" /></p>
 <p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/Version-v1.0.0-blue" /></p>
-<p align="left"> <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/JohnLeeDevs/Recoil-Master/total" /></p>
+<p align="left"> <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/JohnLeeDevs/MetaViewer/total" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
